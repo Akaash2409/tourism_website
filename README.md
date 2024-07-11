@@ -5,5 +5,5 @@ ADVENTURE - A simple website of a tourism agency for tourists.
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
 
-## Link
+## View Website
 - https://tourism-website-ten.vercel.app
